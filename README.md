@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1772374054/gh-repos/shelllock-macos/social-preview.png" alt="shelllock-macos" />
-
+<img src="https://raw.githubusercontent.com/vdutts7/squircle/main/webp/terminal.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/squircle/main/webp/apple-touchid.webp" alt="logo" width="80" height="80" />
 <h1>shelllock-macos</h1>
 <p><i><b>Protect any shell command behind Touch ID 🔐</b></i></p>
 
